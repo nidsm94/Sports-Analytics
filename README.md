@@ -8,12 +8,13 @@ The task was to analyze data and create dashboard showcasing the basketball play
 4. Relevant columns were filered which was required for visualization. 
 5. Dashboard was created for visualization.
 
-on dashboard the following data is visualized,
-1. Seasons played by curry from year 2010 to 2018.
-2. Median shot distance of curry shots for particular year.
-3. Longest shot distance of curry shots for particular year.
-4. Total Final Goal (FG) attempted at shot distance.
-5. Display the location of ball on basketball court describing make or miss the goal. 
+on the dashboard, the following data is visualized,
+
+1. Seasons played by curry from the year 2010 to 2018.
+2. Median shot distance of curry shots for the particular year.
+3. Longest shot distance of curry shots for the particular year.
+4. Total Final Goal (FG) attempted at a shot distance.
+5. Display the location of the ball on the basketball court describing the make-or-miss goal.
 
 since total franchise game attempted values were not given, i used measure feature in powerbi to calculate total FG attempted which was a challenge.
 
